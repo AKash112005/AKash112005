@@ -49,7 +49,8 @@ Languages: C, Java , SQL
  
  Aws Cloud practitioner Essentials
 
- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=AKash112005&show_icons=true&theme=github_Light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash112005&show_icons=true&cache_seconds=86400)
+
 

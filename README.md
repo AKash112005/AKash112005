@@ -49,9 +49,6 @@ Languages: C, Java , SQL
  
  Aws Cloud practitioner Essentials
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash112005&show_icons=true&cache_seconds=86400)
 
 ## 🔧 Mostly Used AWS Concepts
 
@@ -66,6 +63,12 @@ Languages: C, Java , SQL
 [![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-yellow)](https://aws.amazon.com/cloudformation/)
 
 [![API Gateway](https://img.shields.io/badge/AWS-API%20Gateway-red)](https://aws.amazon.com/api-gateway/)
+
+[![Jenkins](https://img.shields.io/badge/Jenkins-007EC6?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 
 

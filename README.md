@@ -57,7 +57,8 @@
 ## 🧠 Certifications
 
 - ☁️ AWS Cloud Essentials  
-- 🤖 Salesforce AI Associate  
+- 🤖 Salesforce AI Associate
+- ☁️ Azure Developer Associate 
 
 ---
 
